@@ -40,7 +40,9 @@ public class Sample3 {
 	    public void afterMethod(){
 	        System.out.println("Sample3 after method");
 	    }
-	
+	    {
+	   System.out.println("Sonali");
+	    }
 	}
 
 
